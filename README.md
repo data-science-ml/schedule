@@ -35,3 +35,47 @@
 - [Matrices - OOP, Linear Algebra](https://github.com/data-science-ml/enter-the-matrix)
 - [Monte Carlo - OOP, Probability](https://github.com/data-science-ml/monte-carlo)
 - [Iris Data Set - KNN Modeling](https://github.com/data-science-ml/knn-iris-data-set)
+
+### Week 2
+
+- x
+
+### Week 3
+
+- x
+
+### Week 4
+
+- x
+
+### Week 5
+
+- x
+
+### Week 6
+
+- x
+
+### Week 7
+
+- x
+
+### Week 8
+
+- x
+
+### Week 9
+
+- x
+
+### Week 10
+
+- x
+
+### Week 11
+
+- x
+
+### Week 12
+
+- x
