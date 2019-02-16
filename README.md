@@ -40,10 +40,28 @@
 ### Week 2 : EDA
 
 - **Remote**
+- Numpy
+- Pandas
+- Matplotlib
+- Loading CSV Data
+- Cleaning Data
+- Analyzing Data
+- Plotting Data
 
 ### Week 3 : Probabilty and Statistics
 
 - **Remote**
+- Statistics Overview
+- Moments
+- Counting
+- Set Theory
+- Probability Theory
+- Probability Distributions
+- Bayes Law
+- Central Limit Theorm
+- Law of Large Numbers
+- Sampling
+- Hypothesis Testing
 
 ### Week 4 : Linear Algebra, Linear/Logistic Regression
 
