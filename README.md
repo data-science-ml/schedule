@@ -15,7 +15,7 @@
 
 # Schedule
 
-### Week 1
+### Week 1 : Python
 
 - **In Person**
 - Computer Setup
@@ -37,51 +37,53 @@
 - [Monte Carlo - OOP, Probability](https://github.com/data-science-ml/monte-carlo)
 - [Iris Data Set - KNN Modeling](https://github.com/data-science-ml/knn-iris-data-set)
 
-### Week 2
+### Week 2 : EDA
 
 - **Remote**
 
-### Week 3
+### Week 3 : Probabilty and Statistics
 
 - **Remote**
 
-### Week 4
+### Week 4 : Linear Algebra, Linear/Logistic Regression
 
 - **In Person**
 
-### Week 5
+### Week 5 : Decison Trees
 
 - **Remote**
 
-### Week 6
+### Week 6 : NLP, Naive Bayes
 
 - **Remote**
 
-### Week 7
+### Week 7 : KMeans, Clustering
 
 - **In Person**
 
-### Week 8
+### Week 8 : Recommender Systems, PCA, NMF
 
 - **Remote**
 
-### Week 9
+### Week 9 : Neural Networks Part I
 
 - **In Person**
 
-### Week 10
+### Week 10 : Neural Networks Part II
 
 - **Remote**
 
-### Week 11
+### Week 11 : Capstone
 
 - **Remote**
+- Work on Capstone
 
-### Week 12
+### Week 12: Capstone
 
 - **Remote**
+- Work on Capstone
 
-### Week 13
+### Week 13: Capstone
 
 - **In person**
 - Capstone Week
