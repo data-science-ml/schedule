@@ -17,6 +17,7 @@
 
 ### Week 1
 
+- **In Person**
 - Computer Setup
 - Python Fundamentals
 - Git
@@ -38,44 +39,49 @@
 
 ### Week 2
 
-- x
+- **Remote**
 
 ### Week 3
 
-- x
+- **Remote**
 
 ### Week 4
 
-- x
+- **In Person**
 
 ### Week 5
 
-- x
+- **Remote**
 
 ### Week 6
 
-- x
+- **Remote**
 
 ### Week 7
 
-- x
+- **In Person**
 
 ### Week 8
 
-- x
+- **Remote**
 
 ### Week 9
 
-- x
+- **In Person**
 
 ### Week 10
 
-- x
+- **Remote**
 
 ### Week 11
 
-- x
+- **Remote**
 
 ### Week 12
 
-- x
+- **Remote**
+
+### Week 13
+
+- **In person**
+- Capstone Week
