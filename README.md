@@ -139,3 +139,5 @@
 
 - **In person**
 - Capstone Week
+- Presentations
+
