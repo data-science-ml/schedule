@@ -114,7 +114,7 @@
 - Thery of Neural Networks
 - Feed forward
 - Back propagation
-- Fully connected
+- Fully Connected Networks
 - Convolutional Neural Networks
 
 ### Week 10 : Neural Networks Part II
@@ -122,6 +122,7 @@
 - **Remote**
 - Tensorflow
 - Keras
+- CPUs vs GPUs
 - Recurrent Neural Networks
 - Generative Adversarial Networks
 
