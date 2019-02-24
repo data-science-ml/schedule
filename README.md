@@ -48,6 +48,17 @@
 - Analyzing Data
 - Plotting Data
 
+##### Recordings
+
+- [Wednesday](https://global.gotomeeting.com/play/recording/e91c304a7cba0fdd8ec651faf4186626255123d4b544778b842880da6a142d7d)
+- [Thursday](https://global.gotomeeting.com/play/recording/e8cbb1dc8a489423728b3457bb0889d1712fe5065932d311fe56a8ba37b0ec88)
+- [Friday](https://global.gotomeeting.com/play/recording/535c1d787df5dd5f189ed375fd130631071c306fa44f4dac17345f0b48463447)
+
+##### Repositories
+
+todo
+
+
 ### Week 3 : Probabilty and Statistics
 
 - **Remote**
