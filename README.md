@@ -57,13 +57,14 @@
 ##### Repositories
 
 - [Numpy Basics](https://github.com/data-science-ml/numpy-basics)
-- [Pandas Basics](https://github.com/data-science-ml/pandas-basics)
 - [Numpy Vectors](https://github.com/data-science-ml/numpy-vectors)
+- [Pandas Basics](https://github.com/data-science-ml/pandas-basics)
+- [Pandas Hospital Assignment](https://github.com/gschool/dsi-pandas)
 - [Pandas Hospital Assignment Solution](https://github.com/data-science-ml/pandas-assignment)
 - [Pandas Missing Data](https://github.com/data-science-ml/pandas-missing-data)
-- [Matplotlib Solution](https://github.com/data-science-ml/matplotlib-assignment-solution)
-- [Pandas Hospital Assignment](https://github.com/gschool/dsi-pandas)
+- [Matplotlib Lecture](https://github.com/gSchool/DSI_Lectures/tree/master/pandas-matplotlib/natalie_hunt)
 - [Pandas Plotting and Baseball Assignment](https://github.com/gschool/dsi-pandas-matplotlib)
+- [Matplotlib Solution](https://github.com/data-science-ml/matplotlib-assignment-solution)
 
 ### Week 3 : Probabilty and Statistics
 
