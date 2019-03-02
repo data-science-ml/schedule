@@ -79,11 +79,30 @@
 - Central Limit Theorm
 - Law of Large Numbers
 - Sampling
-- Hypothesis Testing
+
+##### Recordings
+
+- [Monday](https://global.gotomeeting.com/play/recording/6fe1831041f3fecd09f8f93a181ff0e4769a1a834ec945e3f98b9df24a0c2d4e)
+- [Tuesday](https://global.gotomeeting.com/play/recording/7e844a93ce0e45dba99809bbe20d8dd7823da6683c5faf619defe36ef758073e)
+- [Wednesday](https://global.gotomeeting.com/play/recording/5956fd16c051bac7f181419bc8481f2354cd240e5225fbc325d5b7b5f605af9c)
+- [Thursday](https://global.gotomeeting.com/play/recording/f91b0d7497c6980cb5988aed95a1f4c3f5e224626ccd7c6890e9aa7e34054864)
+- [Friday](https://global.gotomeeting.com/play/recording/aeb94677db8b57ef8dfc2719136575d6d07696b9c94672aebb868d4cef322048)
+
+##### Repositories
+
+- [Pandas Baseball](https://github.com/data-science-ml/baseball-pandas)
+- [Probability Distribution Questions](https://github.com/data-science-ml/probability-distribution-questions)
+- [MLE](https://github.com/data-science-ml/probability-plotting-mle)
+- [Probability Homework](https://github.com/gschool/dsi-probability)
+- [Estimation and Sampling Homework](https://github.com/gschool/dsi-estimation-sampling)
+- [Sampling Bootstrap Answers](https://github.com/data-science-ml/sampling-bootstrap-answers)
+- [Probability Distribution Answers](https://github.com/data-science-ml/probability-dist-answers)
+- [Bayes Dice](https://github.com/data-science-ml/bayes-dice)
 
 ### Week 4 : Linear Algebra, Linear/Logistic Regression
 
 - **In Person**
+- Hypothesis Testing
 - Linear Algebra
 - Simple and Multiple Linear Regression
 - Cross Validation
