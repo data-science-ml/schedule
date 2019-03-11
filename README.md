@@ -99,7 +99,7 @@
 - [Probability Distribution Answers](https://github.com/data-science-ml/probability-dist-answers)
 - [Bayes Dice](https://github.com/data-science-ml/bayes-dice)
 
-### Week 4 : Linear Algebra, Linear/Logistic Regression
+### Week 4 : Hypothesis Testing, Linear Algebra, Linear Regression
 
 - **In Person**
 - Hypothesis Testing
