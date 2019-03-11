@@ -105,16 +105,19 @@
 - Hypothesis Testing
 - Linear Algebra
 - Simple and Multiple Linear Regression
+- Metrics
+- Regularization
 - Cross Validation
 - Bias vs Variance
+- Train/Test Split
+
+### Week 5 : Logistic Regression & Decison Trees
+
+- **Remote**
 - Classification
 - Logistic Regression
 - ROC
 - Confusion Matrix
-
-### Week 5 : Decison Trees
-
-- **Remote**
 - Information Theory
 - Decision Trees
 - Random Forest
