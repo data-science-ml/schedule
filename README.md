@@ -102,31 +102,42 @@
 ### Week 4 : Hypothesis Testing, Linear Algebra, Linear Regression
 
 - **In Person**
-- Hypothesis Testing
+- Hypothesis Testing (1 and 2-sample, proportions)
 - Linear Algebra
 - Simple and Multiple Linear Regression
 - Metrics
-- Regularization
-- Cross Validation
-- Bias vs Variance
-- Train/Test Split
+- Week 4 Exam
 
-### Week 5 : Logistic Regression & Decison Trees
+##### Repositories
+
+- [Code Week 4](https://github.com/data-science-ml/week-4-code)
+- [Exam Week 4](https://github.com/data-science-ml/week-4-exam)
+- [Linear Regression Slides](https://github.com/gschool/DSI_Lectures/tree/master/linear-regression)
+- [Linear Regression Homework](https://github.com/gSchool/dsi-linear-regression/blob/master/pair.md)
+- [Linear Algebra Slides](https://github.com/gschool/DSI_Lectures/tree/master/linear-algebra-eda)
+- [Hypothesis Testing Slides](https://github.com/gschool/DSI_Lectures/tree/master/ab-testing)
+
+### Week 5 : Cross Validation, Regularization, KNN, Logistic Regression
 
 - **Remote**
-- Classification
+- Cross Validation
+- Bias vs Variance
+- Regularization
+- Ridge Regression
+- Lasso
+- KNN
 - Logistic Regression
 - ROC
 - Confusion Matrix
+
+### Week 6 : NLP, Naive Bayes
+
+- **Remote**
 - Information Theory
 - Decision Trees
 - Random Forest
 - Bagging
 - Boosting
-
-### Week 6 : NLP, Naive Bayes
-
-- **Remote**
 - Text Featurization
 - Natural Language Processing
 - Naive Bayes
