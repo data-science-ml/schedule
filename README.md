@@ -117,6 +117,21 @@
 - [Linear Algebra Slides](https://github.com/gschool/DSI_Lectures/tree/master/linear-algebra-eda)
 - [Hypothesis Testing Slides](https://github.com/gschool/DSI_Lectures/tree/master/ab-testing)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Week 5 : Cross Validation, Regularization, KNN, Logistic Regression
 
 - **Remote**
@@ -130,6 +145,7 @@
 - ROC
 - Confusion Matrix
 
+
 ### Week 6 : NLP, Naive Bayes
 
 - **Remote**
@@ -142,6 +158,25 @@
 - Natural Language Processing
 - Naive Bayes
 - Spam Filtering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Week 7 : KMeans, Clustering
 
