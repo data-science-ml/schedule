@@ -142,13 +142,18 @@
 - [KNN MNIST Problem](https://github.com/data-science-ml/knn-mnist)
 - [KNN MNIST Solution](https://github.com/data-science-ml/knn-mnist-solution)
 
+### Week 6 : Logistic Regression, ROC, Decision Trees
 
-
-
-
-
-
-
+- **Remote**
+- Logistic Regression
+- ROC
+- AUC
+- Accuracy
+- Precison
+- Recall
+- Confusion Matrix
+- Information Theory
+- Decision Trees
 
 ##### Recordings
 
@@ -158,59 +163,36 @@
 - [Thursday](https://global.gotomeeting.com/play/recording/66caaef3a8bda02fdb4e088ff76ce2b6f43413fe45f61a68ee7df6d968c76b58)
 - [Friday](https://global.gotomeeting.com/play/recording/ee382f04dabfba01c694723e6cb955d40657fec65d428b485cf1b4d904d18771)
 
+##### Repositories
 
+- [Logistic Regression](https://github.com/data-science-ml/logistic-regression-notes)
+- [Bank Loan](https://github.com/data-science-ml/bank-loan-project)
+- [Graduate School](https://github.com/data-science-ml/grad-school-project)
 
+### Week 7 : Assessment, Gradient Descent, Optimization Theory, Random Forest
 
+- **In Person**
+- Assessment
+- Gradient Descent
+- Integrals
+- Partial Derivatives
+- Negative Log Likelihood
+- Recursion
+- Bagging
+- Random Forest
 
-
-
-
-### Week 6 : NLP, Naive Bayes
+### Week 8 : Recommender Systems, PCA, NMF
 
 - **Remote**
-- Logistic Regression
-- ROC
-- Confusion Matrix
-- Information Theory
-- Decision Trees
-- Random Forest
-- Bagging
 - Boosting
 - Text Featurization
 - Natural Language Processing
 - Naive Bayes
 - Spam Filtering
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Week 7 : KMeans, Clustering
-
-- **In Person**
 - Unsupervised Learning
 - Clustering
 - KMeans
 - Hierarchical Clustering
-
-### Week 8 : Recommender Systems, PCA, NMF
-
-- **Remote**
 - Recommender Systems
 - Principal Compontent Analysis
 - Matrix Factorization
