@@ -117,22 +117,7 @@
 - [Linear Algebra Slides](https://github.com/gschool/DSI_Lectures/tree/master/linear-algebra-eda)
 - [Hypothesis Testing Slides](https://github.com/gschool/DSI_Lectures/tree/master/ab-testing)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Week 5 : Cross Validation, Regularization, KNN, Logistic Regression
+### Week 5 : Cross Validation, Regularization, KNN
 
 - **Remote**
 - Cross Validation
@@ -141,14 +126,51 @@
 - Ridge Regression
 - Lasso
 - KNN
-- Logistic Regression
-- ROC
-- Confusion Matrix
+
+##### Recordings
+
+- [Monday](https://global.gotomeeting.com/play/recording/711f52f6d0743f807271c906c97012ff04160062e81dc3b911b6ea06af094821)
+- [Tuesday](https://global.gotomeeting.com/play/recording/8151acb4e85a40cde79c1eaefd5d1928cfee84768475871b18ec8d58353ca9a6)
+- [Wednesday](https://global.gotomeeting.com/play/recording/38311ea60c7221d7d3cb9f4fa90a6c9c7c69a27bf777999398505d86bd4f6e52)
+- [Thursday](https://global.gotomeeting.com/play/recording/cd23e3a716eae65fcf4fdbd20f1575c0b4dbdbaff2dadddad2c05abb6906a2ef)
+- [Friday](https://global.gotomeeting.com/play/recording/0de6f152ea742f26b3dc72bcb3179984c5efa90145081fd6f62b29b496566c1f)
+
+##### Repositories
+
+- [Week 5 Code](https://github.com/data-science-ml/week-5-code)
+- [Regression Case Study](https://github.com/data-science-ml/regression-case-study)
+- [KNN MNIST Problem](https://github.com/data-science-ml/knn-mnist)
+- [KNN MNIST Solution](https://github.com/data-science-ml/knn-mnist-solution)
+
+
+
+
+
+
+
+
+
+##### Recordings
+
+- [Monday](https://global.gotomeeting.com/play/recording/befacc8d8dc4c831f5b4676dd9145efbd666f6dc396c5ccd704f2355d38a3fc2)
+- [Tuesday](https://global.gotomeeting.com/play/recording/1171297cfbe95aa7de3b1339d7c286c8ed8f199783d3bba880e551d7aa10adc2)
+- [Wednesday](https://global.gotomeeting.com/play/recording/433432165fa4c3c3a9a1a3e8890df80317c561ea1a1f5903ab4ddee52ca75bb9)
+- [Thursday](https://global.gotomeeting.com/play/recording/66caaef3a8bda02fdb4e088ff76ce2b6f43413fe45f61a68ee7df6d968c76b58)
+- [Friday](https://global.gotomeeting.com/play/recording/ee382f04dabfba01c694723e6cb955d40657fec65d428b485cf1b4d904d18771)
+
+
+
+
+
+
 
 
 ### Week 6 : NLP, Naive Bayes
 
 - **Remote**
+- Logistic Regression
+- ROC
+- Confusion Matrix
 - Information Theory
 - Decision Trees
 - Random Forest
