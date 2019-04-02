@@ -176,7 +176,6 @@
 - Gradient Descent
 - Integrals
 - Partial Derivatives
-- Negative Log Likelihood
 - Recursion
 - Bagging
 - Random Forest
