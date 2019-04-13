@@ -176,18 +176,15 @@
 - Gradient Descent
 - Integrals
 - Partial Derivatives
-- Recursion
 - Bagging
 - Random Forest
+- Boosting
+- AdaBoost
+- GradientBoost
 
 ### Week 8 : Recommender Systems, PCA, NMF
 
 - **Remote**
-- Boosting
-- Text Featurization
-- Natural Language Processing
-- Naive Bayes
-- Spam Filtering
 - Unsupervised Learning
 - Clustering
 - KMeans
