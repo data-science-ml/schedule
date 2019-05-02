@@ -209,8 +209,6 @@
 - Tensorflow
 - Keras
 - CPUs vs GPUs
-- Recurrent Neural Networks
-- Generative Adversarial Networks
 
 ### Week 11 : Capstone
 
